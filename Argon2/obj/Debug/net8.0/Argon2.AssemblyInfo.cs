@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HasherBCrypt")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Argon2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc6aba611eabe12a826c5e15959f4e6dddb43908")]
-[assembly: System.Reflection.AssemblyProductAttribute("HasherBCrypt")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HasherBCrypt")]
+[assembly: System.Reflection.AssemblyProductAttribute("Argon2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Argon2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
