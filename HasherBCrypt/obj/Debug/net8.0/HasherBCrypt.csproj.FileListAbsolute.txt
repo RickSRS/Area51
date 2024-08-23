@@ -1,0 +1,17 @@
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\bin\Debug\net8.0\HasherBCrypt.exe
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\bin\Debug\net8.0\HasherBCrypt.deps.json
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\bin\Debug\net8.0\HasherBCrypt.runtimeconfig.json
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\bin\Debug\net8.0\HasherBCrypt.dll
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\bin\Debug\net8.0\HasherBCrypt.pdb
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\obj\Debug\net8.0\HasherBCrypt.csproj.AssemblyReference.cache
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\obj\Debug\net8.0\HasherBCrypt.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\obj\Debug\net8.0\HasherBCrypt.AssemblyInfoInputs.cache
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\obj\Debug\net8.0\HasherBCrypt.AssemblyInfo.cs
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\obj\Debug\net8.0\HasherBCrypt.csproj.CoreCompileInputs.cache
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\obj\Debug\net8.0\HasherBC.4E287789.Up2Date
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\obj\Debug\net8.0\HasherBCrypt.dll
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\obj\Debug\net8.0\refint\HasherBCrypt.dll
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\obj\Debug\net8.0\HasherBCrypt.pdb
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\obj\Debug\net8.0\HasherBCrypt.genruntimeconfig.cache
+E:\WorkSpace\DOT NET\Area 51\HasherBCrypt\obj\Debug\net8.0\ref\HasherBCrypt.dll

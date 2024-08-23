@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5c8ry8kz0JI=",
+  "success": true,
+  "projectFilePath": "E:\\WorkSpace\\DOT NET\\Area 51\\HasherBCrypt\\HasherBCrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Richard Soares\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
