@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Argon2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EncryptAES")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e21942fedfb3df6b5295f7dfb5b3978650f70852")]
-[assembly: System.Reflection.AssemblyProductAttribute("Argon2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Argon2")]
+[assembly: System.Reflection.AssemblyProductAttribute("EncryptAES")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EncryptAES")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

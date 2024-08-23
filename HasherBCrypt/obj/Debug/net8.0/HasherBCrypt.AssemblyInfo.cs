@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HasherBCrypt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+987dcdb3833eca0a0631cc1569236300307fea00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e21942fedfb3df6b5295f7dfb5b3978650f70852")]
 [assembly: System.Reflection.AssemblyProductAttribute("HasherBCrypt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HasherBCrypt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

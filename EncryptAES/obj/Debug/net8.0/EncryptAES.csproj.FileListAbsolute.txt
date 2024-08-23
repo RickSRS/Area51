@@ -1,0 +1,15 @@
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\bin\Debug\net8.0\EncryptAES.exe
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\bin\Debug\net8.0\EncryptAES.deps.json
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\bin\Debug\net8.0\EncryptAES.runtimeconfig.json
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\bin\Debug\net8.0\EncryptAES.dll
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\bin\Debug\net8.0\EncryptAES.pdb
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\obj\Debug\net8.0\EncryptAES.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\obj\Debug\net8.0\EncryptAES.AssemblyInfoInputs.cache
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\obj\Debug\net8.0\EncryptAES.AssemblyInfo.cs
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\obj\Debug\net8.0\EncryptAES.csproj.CoreCompileInputs.cache
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\obj\Debug\net8.0\EncryptAES.sourcelink.json
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\obj\Debug\net8.0\EncryptAES.dll
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\obj\Debug\net8.0\refint\EncryptAES.dll
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\obj\Debug\net8.0\EncryptAES.pdb
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\obj\Debug\net8.0\EncryptAES.genruntimeconfig.cache
+E:\WorkSpace\DOT NET\Area 51\EncryptAES\obj\Debug\net8.0\ref\EncryptAES.dll
