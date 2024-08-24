@@ -1,0 +1,50 @@
+﻿1. Faça download do Keycloak Server referente ao seus sistema
+operacional no site https://www.keycloak.org/downloads
+
+2. Caso não tenha o Java Development Kit (JDK) instalado, você pode baixar o JDK 
+do site oficial da [Oracle JDK](https://www.oracle.com/br/java/technologies/downloads/) ou 
+usar um JDK de código aberto, como o [OpenJDK](https://openjdk.java.net/).
+
+2.1 Instalar o JDK
+   Instale o JDK baixado seguindo as instruções no site. Normalmente, a instalação envolve executar um instalador.
+
+2.2 Configurar o JAVA_HOME
+
+    2.2.1 Encontrar o Diretório de Instalação
+          Após instalar o JDK, anote o caminho do diretório de instalação. Por exemplo: `C:\Program Files\Java\jdk-11.0.10`.
+    
+    2.2.2 Configurar a Variável de Ambiente JAVA_HOME no Windows
+          Abra `Painel de Controle -> Sistema e Segurança -> Sistema -> Configurações avançadas do sistema`.
+          Clique no botão `Variáveis de Ambiente`.
+          Na seção `Variáveis do Sistema`, clique em `Novo`.
+          Nome da variável: `JAVA_HOME`
+          Valor da variável: `C:\Program Files\Java\jdk-11.0.10` (substitua pelo caminho do seu JDK)
+          Clique em `OK` para salvar.
+    
+    2.2.3 Adicionar o Caminho do JDK ao PATH
+          Ainda na tela `Variáveis de Ambiente`, na seção `Variáveis do Sistema`, encontre a variável `Path` e selecione `Editar`.
+          Adicione um novo caminho: `%JAVA_HOME%\bin`.
+          Clique em `OK` para salvar.
+          
+3. Inicie o Keycloak usando o comando: 
+        `./bin/kc.sh start-dev` no Linux
+        `./bin/kc.bat start-dev` no Windows.
+   Acesse o console administrativo através do endereço http://localhost:8080.
+   
+4. Criar um Realm
+   No console administrativo, clique em "Add Realm".
+   Nomeie o Realm (por exemplo, `myrealm`) e clique em "Create".
+   
+5. Criar um Cliente
+   Dentro do Realm criado, vá para "Clients" e clique em "Create".
+   Defina o Client ID (por exemplo, `myclient`).
+   Selecione `OpenID Connect` como Client Protocol e `Confidential` como Access Type.
+   Defina o "Root URL" como a URL do seu projeto ASP.NET Core (por exemplo, `https://localhost:5001`).
+   Salve as configurações, clique no cliente criado e defina o valor "Valid Redirect URIs" para `https://localhost:5001/*` e "Web Origins" para `+`.
+   
+6. Obter Credenciais
+   Vá para a aba "Credentials" do cliente criado e copie o valor `Secret` .
+   
+7. Altere o valor em appsettings.json > Keycloak.Authority = http://localhost:8080/realms/{seuRealm}
+   Altere o valor em appsettings.json > Keycloak.ClientId = {seuClientId}
+   Altere o valor em appsettings.json > Keycloak.ClientSecret = {clientSecretCopiadoAnteriormente}
