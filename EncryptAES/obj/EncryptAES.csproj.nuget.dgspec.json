@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WorkSpace\\DOT NET\\Area51\\EncryptAES\\EncryptAES.csproj": {}
+    "E:\\WorkSpace\\C#\\Area51\\EncryptAES\\EncryptAES.csproj": {}
   },
   "projects": {
-    "E:\\WorkSpace\\DOT NET\\Area51\\EncryptAES\\EncryptAES.csproj": {
+    "E:\\WorkSpace\\C#\\Area51\\EncryptAES\\EncryptAES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkSpace\\DOT NET\\Area51\\EncryptAES\\EncryptAES.csproj",
+        "projectUniqueName": "E:\\WorkSpace\\C#\\Area51\\EncryptAES\\EncryptAES.csproj",
         "projectName": "EncryptAES",
-        "projectPath": "E:\\WorkSpace\\DOT NET\\Area51\\EncryptAES\\EncryptAES.csproj",
+        "projectPath": "E:\\WorkSpace\\C#\\Area51\\EncryptAES\\EncryptAES.csproj",
         "packagesPath": "C:\\Users\\Richard Soares\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkSpace\\DOT NET\\Area51\\EncryptAES\\obj\\",
+        "outputPath": "E:\\WorkSpace\\C#\\Area51\\EncryptAES\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Richard Soares\\AppData\\Roaming\\NuGet\\NuGet.Config",

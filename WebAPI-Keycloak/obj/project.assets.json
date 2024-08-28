@@ -792,11 +792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WorkSpace\\DOT NET\\Area51\\WebAPI-Keycloak\\WebAPI-Keycloak.csproj",
+      "projectUniqueName": "E:\\WorkSpace\\C#\\Area51\\WebAPI-Keycloak\\WebAPI-Keycloak.csproj",
       "projectName": "WebAPI-Keycloak",
-      "projectPath": "E:\\WorkSpace\\DOT NET\\Area51\\WebAPI-Keycloak\\WebAPI-Keycloak.csproj",
+      "projectPath": "E:\\WorkSpace\\C#\\Area51\\WebAPI-Keycloak\\WebAPI-Keycloak.csproj",
       "packagesPath": "C:\\Users\\Richard Soares\\.nuget\\packages\\",
-      "outputPath": "E:\\WorkSpace\\DOT NET\\Area51\\WebAPI-Keycloak\\obj\\",
+      "outputPath": "E:\\WorkSpace\\C#\\Area51\\WebAPI-Keycloak\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Richard Soares\\AppData\\Roaming\\NuGet\\NuGet.Config",

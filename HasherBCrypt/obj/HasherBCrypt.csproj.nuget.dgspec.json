@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WorkSpace\\DOT NET\\Area51\\HasherBCrypt\\HasherBCrypt.csproj": {}
+    "E:\\WorkSpace\\C#\\Area51\\HasherBCrypt\\HasherBCrypt.csproj": {}
   },
   "projects": {
-    "E:\\WorkSpace\\DOT NET\\Area51\\HasherBCrypt\\HasherBCrypt.csproj": {
+    "E:\\WorkSpace\\C#\\Area51\\HasherBCrypt\\HasherBCrypt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkSpace\\DOT NET\\Area51\\HasherBCrypt\\HasherBCrypt.csproj",
+        "projectUniqueName": "E:\\WorkSpace\\C#\\Area51\\HasherBCrypt\\HasherBCrypt.csproj",
         "projectName": "HasherBCrypt",
-        "projectPath": "E:\\WorkSpace\\DOT NET\\Area51\\HasherBCrypt\\HasherBCrypt.csproj",
+        "projectPath": "E:\\WorkSpace\\C#\\Area51\\HasherBCrypt\\HasherBCrypt.csproj",
         "packagesPath": "C:\\Users\\Richard Soares\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkSpace\\DOT NET\\Area51\\HasherBCrypt\\obj\\",
+        "outputPath": "E:\\WorkSpace\\C#\\Area51\\HasherBCrypt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Richard Soares\\AppData\\Roaming\\NuGet\\NuGet.Config",

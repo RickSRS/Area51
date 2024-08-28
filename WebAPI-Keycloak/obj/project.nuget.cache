@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FMYxLt5JW40=",
+  "dgSpecHash": "xiPS7tY0aG8=",
   "success": true,
-  "projectFilePath": "E:\\WorkSpace\\DOT NET\\Area51\\WebAPI-Keycloak\\WebAPI-Keycloak.csproj",
+  "projectFilePath": "E:\\WorkSpace\\C#\\Area51\\WebAPI-Keycloak\\WebAPI-Keycloak.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Richard Soares\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.8\\microsoft.aspnetcore.authentication.jwtbearer.8.0.8.nupkg.sha512",
     "C:\\Users\\Richard Soares\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",

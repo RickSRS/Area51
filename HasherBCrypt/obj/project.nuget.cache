@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h863O+6rpJQ=",
+  "dgSpecHash": "9dxGeAIBMEs=",
   "success": true,
-  "projectFilePath": "E:\\WorkSpace\\DOT NET\\Area51\\HasherBCrypt\\HasherBCrypt.csproj",
+  "projectFilePath": "E:\\WorkSpace\\C#\\Area51\\HasherBCrypt\\HasherBCrypt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Richard Soares\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
   ],

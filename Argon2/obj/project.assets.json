@@ -117,11 +117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WorkSpace\\DOT NET\\Area51\\Argon2\\Argon2.csproj",
+      "projectUniqueName": "E:\\WorkSpace\\C#\\Area51\\Argon2\\Argon2.csproj",
       "projectName": "Argon2",
-      "projectPath": "E:\\WorkSpace\\DOT NET\\Area51\\Argon2\\Argon2.csproj",
+      "projectPath": "E:\\WorkSpace\\C#\\Area51\\Argon2\\Argon2.csproj",
       "packagesPath": "C:\\Users\\Richard Soares\\.nuget\\packages\\",
-      "outputPath": "E:\\WorkSpace\\DOT NET\\Area51\\Argon2\\obj\\",
+      "outputPath": "E:\\WorkSpace\\C#\\Area51\\Argon2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Richard Soares\\AppData\\Roaming\\NuGet\\NuGet.Config",
