@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPI-JWT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c466e58a9b1a607ae228d06ae55d123be8c065dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b4c55c45b71d894d2c7939162ad2170be4a2331")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPI-JWT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPI-JWT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
