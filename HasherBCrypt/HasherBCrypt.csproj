@@ -11,4 +11,16 @@
       <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Remove="obj\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="obj\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="obj\**" />
+    </ItemGroup>
+
 </Project>
